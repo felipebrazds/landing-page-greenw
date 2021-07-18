@@ -184,6 +184,11 @@ footer {
   background: rgb(26, 0, 26);
 }
 
+footer img {
+  max-width: 25px;
+  margin: 10px 0;
+}
+
 @media (max-width: 991px) {
   .section-one .logo {
     max-width: 500px;
